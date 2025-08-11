@@ -1,4 +1,4 @@
-## Sou o Mourivs (Gabriel de Moura)!
+## Sou o Mourivs !
 
 
 <div style="display: inline_block"><br>
