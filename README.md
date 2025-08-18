@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [agrosync]
    (link until coming...)
 
-- 🌱 I’m currently learning **React, Alura, Udemy.**
+- Studying on **React, Alura, Udemy.**
 
 - 👨‍💻 SETUP
                        (link coming soon)
