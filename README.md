@@ -12,7 +12,7 @@
 - Studying on **React, Alura, Udemy.**
 
 - 👨‍💻 SETUP
-  <a href="mourivs.github.io/setup/">link setup</a>
+  <a href="[mourivs.github.io/setup/](https://mourivs.github.io/setup)">link setup</a>
                        
 
 
