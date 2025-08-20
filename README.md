@@ -12,7 +12,8 @@
 - Studying on **React, Alura, Udemy.**
 
 - 👨‍💻 SETUP
-                       (link coming soon)
+  <a href="mourivs.github.io/setup/">link setup</a>
+                       
 
 
 
